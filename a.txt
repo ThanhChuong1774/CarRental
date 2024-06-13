@@ -1,5 +1,0 @@
-npm init
-npm install express --save
-npm install nodemon -g
-npm i body-parser
-npm i mysql2
